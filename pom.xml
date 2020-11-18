@@ -11,6 +11,7 @@
 
   <modules>
     <module>7-parallel-data-processing-and-performance</module>
+    <module>15-Concepts-behind-CompletableFuture-and-reactive-programming</module>
   </modules>
 
   <dependencyManagement>
